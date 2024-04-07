@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Aakriti Mehta</h1>
-<h3 align="center">Ardent web developer proficient in HTML, CSS, and JavaScript, with hands-on experience in React. Avid learner and competitive programmer committed to continuous improvement and innovation.</h3>
+<h3 align="center">A web developer proficient in HTML, CSS and JavaScript with hands-on experience in React. Learner and competitive programmer committed to continuous improvement and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakrititm15&label=Profile%20views&color=0e75b6&style=flat" alt="aakrititm15" /> </p>
 
@@ -34,9 +34,9 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<!--     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    </a> 
+    </a>  -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
     </a> 
